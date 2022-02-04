@@ -905,4 +905,11 @@ footer{
     .overlay_right {
         margin-left: 40px;
     }
+.what_said_header h2 {
+        margin-bottom: 60px;
+font-size:22px;
+    }
+.event_item h2 {
+        font-size: 37px;
+    }
 }
